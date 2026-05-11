@@ -31,7 +31,3 @@ I build high-performance, scalable web applications with a focus on clean code a
 * **Clean Architecture:** Writing maintainable, scalable, and well-documented TypeScript code.
 
 ---
-
-### :link: Connect with me
-- **Upwork:** [Professional Profile](https://www.upwork.com/freelancers/~018c085a0d1002e0ae)
-- **Email:** wahabhassan.dev@gmail.com
