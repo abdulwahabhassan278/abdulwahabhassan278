@@ -34,5 +34,4 @@ I build high-performance, scalable web applications with a focus on clean code a
 
 ### 🔗 Connect with me
 - **Upwork:** [Professional Profile](https://www.upwork.com/freelancers/~018c085a0d1002e0ae)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdul-wahab-hassan/) 
-- **Portfolio:** [Personal Website/Portfolio]
+- **Email:** wahabhassan.dev@gmail.com 
