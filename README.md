@@ -13,8 +13,10 @@ I build high-performance, scalable web applications with a focus on clean code a
 ---
 
 ### 📊 GitHub Activity & Stats
-![Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulwahabhassan278&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabhassan278&layout=compact&theme=tokyonight)
+### 📊 GitHub Activity & Stats
+![Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulwahabhassan278&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabhassan278&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
