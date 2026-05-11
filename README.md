@@ -28,11 +28,10 @@ I build high-performance, scalable web applications with a focus on clean code a
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwahabhassan278&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabhassan278&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+### 📊 Professional Highlights
+* **High-Performance Web Apps:** Specialized in Next.js 14 and Server-Side Rendering.
+* **Production Grade Code:** Expertise in building scalable MERN stack architectures.
+* **UI/UX Excellence:** Delivering pixel-perfect designs with Tailwind CSS and Framer Motion.
 
 ---
 
