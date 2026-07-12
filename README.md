@@ -2,18 +2,18 @@
 <h3 align="center">Full-Stack Developer | Building scalable web applications with modern JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js;Open+to+freelance+%26+full-time+projects&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Next.js+%26+AI+SaaS+Developer;Supabase+%7C+Node.js+%7C+Full+Stack;Open+to+freelance+%26+full-time+projects&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" />
 </p>
 
 - 🔭 I'm currently working on full-stack web applications at **Cure Logics**
-- 🌱 Deepening my expertise in **Next.js, TypeScript, and scalable backend architecture**
+- 🌱 Deepening my expertise in **Next.js, Supabase, and scalable backend architecture**
 - 💬 Ask me about **React, Node.js, REST APIs, and database design**
 - 📫 Reach me via **LinkedIn** or **Upwork** (links below)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="LINKEDIN_URL_HERE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a>
-<a href="UPWORK_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~018c085a0d1002e0ae" target="_blank"><img src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -38,9 +38,26 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahabhassan278&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=abdulwahabhassan278&theme=tokyonight" />
 </p>
 
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=abdulwahabhassan278&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h3 align="left">💼 Upwork Track Record</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Job_Success-84%25-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Rating-5.0%2F5-yellow?style=for-the-badge&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Jobs_Completed-6-blue?style=for-the-badge&logo=upwork&logoColor=white" />
+</p>
+
+<p align="center">
+<i>Thanks for stopping by — let's build something great together 🚀</i>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdulwahabhassan278&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
