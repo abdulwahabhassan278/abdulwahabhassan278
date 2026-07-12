@@ -14,19 +14,21 @@ I build high-performance, scalable web applications with a focus on clean code a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### :hammer_and_wrench: Tech Stack & Expertise
 
 **Frontend Development**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css,redux,bootstrap" alt="Frontend" />
 </p>
 
 **Backend & Database**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase" alt="Backend" />
 </p>
 
 **Design & DevOps Tools**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,docker,postman,aws" alt="Tools" />
 </p>
