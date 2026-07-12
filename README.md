@@ -39,10 +39,9 @@ I build high-performance, scalable web applications with a focus on clean code a
 <img src="https://img.shields.io/github/stars/abdulwahabhassan278?label=Stars&style=for-the-badge&color=yellow&logo=github" />
 </p>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=abdulwahabhassan278&theme=tokyonight" />
+<p align="center">
+  <sub>© 2026 Abdul Wahab. Developed inside a premium dark luxury framework ecosystem.</sub>
 </p>
-
 ---
 
 ### :rocket: Highlights & Experience
