@@ -1,11 +1,10 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abdul%20Wahab&fontSize=70" /></p>
-<h3 align="center">Full-Stack Developer | Building scalable web applications with modern JavaScript</h3>
+<h3 align="center">Top Rated Full-Stack Developer | Next.js & UI/UX Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Next.js+%26+AI+SaaS+Developer;Supabase+%7C+Node.js+%7C+Full+Stack;Open+to+freelance+%26+full-time+projects&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" />
 </p>
 
-### Top Rated Full-Stack Developer | Next.js & UI/UX Specialist
 I build high-performance, scalable web applications with a focus on clean code and exceptional user experience. Expert in modern JavaScript frameworks and responsive design.
 
 <h3 align="left">Connect with me:</h3>
