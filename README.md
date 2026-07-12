@@ -33,26 +33,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulwahabhassan278&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahabhassan278&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://img.shields.io/github/followers/abdulwahabhassan278?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
+<img src="https://img.shields.io/github/stars/abdulwahabhassan278?label=Stars&style=for-the-badge&color=yellow&logo=github" />
 </p>
 
 <p align="left">
 <img src="https://streak-stats.demolab.com/?user=abdulwahabhassan278&theme=tokyonight" />
 </p>
 
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=abdulwahabhassan278&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
-
-<h3 align="left">💼 Upwork Track Record</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Job_Success-84%25-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-<img src="https://img.shields.io/badge/Rating-5.0%2F5-yellow?style=for-the-badge&logo=upwork&logoColor=white" />
-<img src="https://img.shields.io/badge/Jobs_Completed-6-blue?style=for-the-badge&logo=upwork&logoColor=white" />
-</p>
 
 <p align="center">
 <i>Thanks for stopping by — let's build something great together 🚀</i>
