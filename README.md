@@ -1,9 +1,11 @@
-# 🌌 Abdul Wahab | Full-Stack Developer
-
-![Capsule Render Wave Banner](https://pythonanywhere.com)
+# 🔮 Abdul Wahab | Technical Showcase
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG Animation" />
+  <img src="https://vercel.app" alt="Header Title" />
+</p>
+
+<p align="center">
+  <img src="https://demolab.com" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -15,7 +17,7 @@
 
 ---
 
-## 🎯 Professional Executive Summary
+### 🎯 Professional Executive Summary
 
 Highly proficient and impact-driven **Full-Stack Developer** specializing in elite frontend architectures, modern JavaScript frameworks, and high-performance server solutions.
 
@@ -25,20 +27,19 @@ Highly proficient and impact-driven **Full-Stack Developer** specializing in eli
 
 ---
 
-## 🛠️ Technological Ecosystem
+### 🛠️ Technological Ecosystem
 
-### 🔮 Frontend Engineering
-* `Next.js 14` / `React 18` / `TypeScript` / `Tailwind CSS` / `Redux Toolkit`
-
-### ⚙️ Backend & Systems
-* `Node.js` / `Express.js` / `PostgreSQL` / `MongoDB` / `Prisma ORM`
-
-### ☁️ Cloud & Tools
-* `Git & GitHub` / `Docker` / `Vercel` / `Figma`
+| 🔮 Frontend Engineering | ⚙️ Backend & Systems | ☁️ Cloud & Tools |
+| :--- | :--- | :--- |
+| `Next.js 14` | `Node.js` | `Git & GitHub` |
+| `React 18` | `Express.js` | `Docker` |
+| `TypeScript` | `PostgreSQL` | `Vercel` |
+| `Tailwind CSS` | `MongoDB` | `Figma` |
+| `Redux Toolkit` | `Prisma ORM` | `Jest Testing` |
 
 ---
 
-## 💼 Featured Engineering Deployments
+### 💼 Featured Engineering Deployments
 
 <details>
 <summary>📂 <b>Enterprise Expense Manager — Native Mobile & Web Ecosystem</b></summary>
@@ -62,14 +63,27 @@ Highly proficient and impact-driven **Full-Stack Developer** specializing in eli
 
 ---
 
-## 📊 Analytical Insights & System Matrix
+### 📊 Analytical Insights & System Matrix
 
-Aapki stats images niche diye gaye links par live dekhne ko milengi:
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</p>
 
-* **GitHub Stats:** `https://vercel.app`
-* **Top Languages:** `https://vercel.app`
+<p align="center">
+  <img src="https://herokuapp.com" width="97%" alt="Streak Stats" />
+</p>
 
 ---
+
+### 🤝 Let's Collaborate
+
+* 💬 Ask me about **Next.js optimization vectors**, **TypeScript architectural frameworks**, or **Database scaling strategy**.
+* 📫 Reach out via: `abdulwahabhassan278@example.com`
+
+<p align="center">
+  <sub>© 2026 Abdul Wahab. Developed inside a premium dark luxury framework ecosystem.</sub>
+</p>
 
 ## 🤝 Let's Collaborate
 
