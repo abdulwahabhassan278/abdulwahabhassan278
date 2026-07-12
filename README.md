@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Abdul%20Wahab&fontSize=70" /></p>
 <h3 align="center">Full-Stack Developer | Building scalable web applications with modern JavaScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Next.js+%26+AI+SaaS+Developer;Supabase+%7C+Node.js+%7C+Full+Stack;Open+to+freelance+%26+full-time+projects&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22" />
 </p>
 
-- 🔭 I'm currently working on full-stack web applications at **Cure Logics**
-- 🌱 Deepening my expertise in **Next.js, Supabase, and scalable backend architecture**
-- 💬 Ask me about **React, Node.js, REST APIs, and database design**
-- 📫 Reach me via **LinkedIn** or **Upwork** (links below)
+### Top Rated Full-Stack Developer | Next.js & UI/UX Specialist
+I build high-performance, scalable web applications with a focus on clean code and exceptional user experience. Expert in modern JavaScript frameworks and responsive design.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,10 +41,12 @@
 
 ---
 
-<p align="center">
-<i>Thanks for stopping by — let's build something great together 🚀</i>
-</p>
+### :rocket: Highlights & Experience
+* **Production Excellence:** Delivering high-quality code for US-based clients and field-service businesses.
+* **Mastery in Modern Stack:** Specialized in Next.js 14, App Router, and Server Components.
+* **Performance Focused:** Ensuring 90+ Lighthouse scores for SEO and speed.
+* **Clean Architecture:** Writing maintainable, scalable, and well-documented TypeScript code.
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abdulwahabhassan278&label=Profile%20Views&color=0e75b6&style=flat" />
+<i>Thanks for stopping by — let's build something great together 🚀</i>
 </p>
