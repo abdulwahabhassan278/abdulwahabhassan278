@@ -37,10 +37,6 @@ I build high-performance, scalable web applications with a focus on clean code a
 
 </p>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com/?user=abdulwahabhassan278&theme=tokyonight" />
-</p>
-
 ---
 </p>
 
