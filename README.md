@@ -33,9 +33,7 @@ I build high-performance, scalable web applications with a focus on clean code a
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,docker,postman,aws" alt="Tools" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://img.shields.io/github/followers/abdulwahabhassan278?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
+
 
 </p>
 
